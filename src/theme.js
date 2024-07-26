@@ -14,7 +14,7 @@ export const blueTheme = {
 };
 
 export const brownTheme = {
-  body: "#FFFEFD",
+  body: "#fff5f0",
   text: "#5D2A42",
   expTxtColor: "#000a12",
   highlight: "#FFF9EC",
@@ -195,4 +195,4 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
-export const chosenTheme = blueTheme;
+export const chosenTheme = brownTheme;
